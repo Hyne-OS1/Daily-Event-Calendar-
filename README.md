@@ -1,4 +1,4 @@
-# Casye's Work Day Planner
+# Casey's Work Day Planner
 
 https://hyne-os1.github.io/Daily-Event-Calendar-/
 
