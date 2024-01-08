@@ -1,0 +1,27 @@
+/*highlighting block for past activites*/
+.past {
+    background-color: rebeccapurple;
+    color: white;
+}
+
+/*hightlighting block for present activities*/
+.present {
+    background-color: aqua;
+    color: white;
+}
+
+/*highlighting block for future activities*/
+.future {
+    background-color: greenyellow;
+    color: white;
+}
+
+/*save button options*/
+.saveBtn {
+    background-color: bisque;
+}
+
+.saveBtn i:hover {
+    font-size: 20px;
+    transition: all 0.3s ease-in-out;
+  }
