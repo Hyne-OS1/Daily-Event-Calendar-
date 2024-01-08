@@ -12,7 +12,7 @@ https://hyne-os1.github.io/Daily-Event-Calendar-/
 
 ## Usage
 
-* Using this site is very easy an straightforward simply add your tasks to each corresponding time/text box ensruing to press the save button upon finishing to ensure the tasks saves to your local storage and does not disappear upon refreshing your page.
+* Using this site is very easy an straightforward simply add your tasks to each corresponding time/text box ensuring to press the save button upon finishing to ensure the tasks saves to your local storage and does not disappear upon refreshing your page.
 
 ## Credits
 
